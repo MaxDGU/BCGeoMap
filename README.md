@@ -1,5 +1,6 @@
 # BCGeoMap
 Geomapping of British Columbia's bedrock types using GeoPandas - an independent contracted project for large mining company. 
+
 How to run: simply compile all blocks installing and importing dependencies first, and then run the main plotting code block (these are already in order and can be run sequentially as is). 
 
 My Approach: 
